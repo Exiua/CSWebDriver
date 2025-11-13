@@ -1,7 +1,7 @@
 [project]
 name = "cswebdriver"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "A lightweight web API built with Bottle and selenium-stealth that provides endpoints to interact with web pages while bypassing common scraping detection techniques."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
